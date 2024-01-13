@@ -1,0 +1,10 @@
+title: GET OFF YOUR BIKE
+originalAuthor: shananas
+game: kh2
+description: I Don't Know
+assets:
+- name: remastered\obj\B_EX420.a.us\se\obj\se394
+  platform: pc
+  method: copy
+  source:
+  - name: se394.scd
